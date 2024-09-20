@@ -1,0 +1,14 @@
+a) 14 have been made.
+b) 2024-09-20 00:29:45 -0500
+c) git checkout `git rev-list -n 1 --before="2020-06-01" main`
+   ls
+d) 9
+e) We didn't do this but it would be something along the lines like this git log --follow --stat REMOVE.txt
+f) git log displays the commit history, showing all commits made in the repository. It also shows things like commit messages, authors, and dates.
+   git status shows current status of your working directory as well as staging area with changes staged or not and shows which files aren't being tracked
+g) It basically summarizes git log and provides a more concise view for quick viewing
+h) git log -- Main.java
+i) git log --follow -p -- Main.java
+j) git log --grep="account"
+k) git log --author="Author Name"
+l) git log --author="Lauren" --since="2014-01-05" --until="2024-01-14"
