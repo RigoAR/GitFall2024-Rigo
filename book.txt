@@ -1,0 +1,25 @@
+The last for personal enjoyment book I read was I Am Number Four which was a Sci-Fi series
+where kids ran away from original planet due to other aliens attacking and landed on Earth.
+Now they must hide until they are old enough to fully develop their supernatural powers and
+be able to fight back. They were given a caretaker and their location must not be find out or
+they will be killed. The enemy aliens are killing them in order and he's next on the list. When
+he gets found out it's up to his caregiver to quickly move him to small towns around the world.
+It's good. :)On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   output.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   output.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.idea/
+	GitFall2024-Rigo.iml
+	book.txt
+	properties.txt
+
