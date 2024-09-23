@@ -1,0 +1,386 @@
+Blizzard:1
+Bash:0
+Bash:1
+Thunderclap:6
+Defend:3
+Blizzard:0
+Genetic Algorithm:5
+Recycle:4
+Bash:0
+Strike:5
+Recycle:4
+Bash:2
+Thunderclap:1
+Recycle:6
+Bash:6
+Biased Cognition:1
+All For One:3
+Blizzard:1
+Biased Cognition:4
+Crush:4
+Thunderclap:0
+Thunderclap:5
+Crush:5
+Hyperbeam:5
+Crush:2
+Bash:5
+Meteor Strike:0
+Bash:3
+Tempest:5
+Defend:1
+Thunderclap:6
+All For One:5
+Meteor Strike:6
+Biased Cognition:6
+Biased Cognition:4
+Meteor Strike:2
+Genetic Algorithm:0
+Thunderclap:3
+Meteor Strike:3
+Biased Cognition:4
+Meteor Strike:0
+Tempest:6
+Crush:0
+Thunderclap:6
+Biased Cognition:2
+Recycle:0
+Tempest:3
+Defend:6
+Hyperbeam:2
+Recycle:4
+Crush:3
+Biased Cognition:0
+Strike:5
+Thunderclap:3
+Blizzard:4
+Bash:2
+Genetic Algorithm:6
+All For One:1
+Recycle:1
+Blizzard:3
+Crush:6
+Defend:1
+Bash:3
+Hyperbeam:0
+Strike:1
+Bash:1
+All For One:5
+Recycle:6
+Meteor Strike:2
+Hyperbeam:0
+Bash:6
+Biased Cognition:4
+Strike:6
+Blizzard:6
+Defend:6
+Bash:5
+Hyperbeam:3
+Blizzard:3
+Genetic Algorithm:6
+Crush:6
+Genetic Algorithm:4
+Blizzard:3
+Blizzard:1
+Biased Cognition:4
+Blizzard:3
+Strike:6
+Biased Cognition:2
+Blizzard:0
+Strike:5
+Crush:5
+Crush:0
+Crush:4
+Thunderclap:5
+Meteor Strike:6
+Crush:1
+Bash:4
+Biased Cognition:5
+Blizzard:1
+Crush:2
+Strike:5
+Defend:3
+Crush:1
+Defend:2
+Genetic Algorithm:2
+Hyperbeam:1
+Meteor Strike:1
+Strike:0
+Genetic Algorithm:4
+Blizzard:5
+Biased Cognition:4
+All For One:0
+Strike:2
+Biased Cognition:5
+Hyperbeam:3
+Recycle:6
+Defend:2
+Meteor Strike:2
+Thunderclap:5
+Meteor Strike:3
+Meteor Strike:4
+Thunderclap:3
+Bash:5
+Genetic Algorithm:0
+Biased Cognition:2
+Hyperbeam:1
+Strike:0
+Genetic Algorithm:2
+Bash:2
+Meteor Strike:6
+Recycle:5
+Thunderclap:2
+All For One:0
+Meteor Strike:3
+Hyperbeam:4
+Recycle:1
+Bash:2
+Thunderclap:0
+Tempest:6
+Strike:5
+Thunderclap:4
+Biased Cognition:2
+Hyperbeam:1
+Biased Cognition:4
+Genetic Algorithm:6
+Tempest:5
+Bash:0
+Blizzard:3
+Hyperbeam:0
+Strike:6
+Tempest:6
+Bash:6
+Genetic Algorithm:2
+Thunderclap:6
+Recycle:1
+Hyperbeam:3
+Tempest:4
+Genetic Algorithm:5
+Meteor Strike:3
+Biased Cognition:1
+Meteor Strike:2
+Thunderclap:0
+Blizzard:6
+Thunderclap:6
+Thunderclap:2
+Bash:3
+Blizzard:3
+Recycle:2
+Thunderclap:3
+Thunderclap:1
+Biased Cognition:2
+Blizzard:5
+Thunderclap:2
+Defend:6
+Hyperbeam:2
+Genetic Algorithm:6
+Crush:2
+Defend:5
+Crush:4
+Crush:1
+Bash:2
+Genetic Algorithm:2
+Crush:5
+All For One:5
+Biased Cognition:2
+Hyperbeam:0
+Strike:2
+Thunderclap:4
+Biased Cognition:6
+Genetic Algorithm:4
+Blizzard:1
+Thunderclap:1
+Thunderclap:2
+Recycle:0
+Genetic Algorithm:6
+Biased Cognition:6
+Genetic Algorithm:2
+Recycle:1
+Crush:6
+Thunderclap:4
+Defend:2
+Blizzard:3
+Blizzard:6
+Meteor Strike:3
+All For One:0
+Recycle:0
+Blizzard:0
+Crush:2
+Hyperbeam:3
+Tempest:2
+Blizzard:3
+Tempest:0
+Strike:0
+Defend:1
+Bash:0
+Bash:1
+Recycle:3
+Biased Cognition:4
+Recycle:1
+Meteor Strike:2
+Blizzard:1
+Meteor Strike:2
+Bash:6
+Thunderclap:4
+Hyperbeam:2
+Recycle:5
+Blizzard:6
+Blizzard:6
+All For One:0
+Thunderclap:1
+Blizzard:1
+Thunderclap:6
+Hyperbeam:2
+Hyperbeam:1
+Thunderclap:2
+Strike:6
+Crush:2
+Crush:1
+Strike:4
+Recycle:1
+Biased Cognition:5
+Meteor Strike:6
+All For One:3
+Crush:1
+Strike:1
+Tempest:5
+Biased Cognition:5
+Crush:1
+Genetic Algorithm:5
+Strike:6
+Defend:4
+Genetic Algorithm:0
+Biased Cognition:5
+Thunderclap:5
+Biased Cognition:2
+Strike:0
+Tempest:0
+Meteor Strike:3
+Recycle:2
+Genetic Algorithm:6
+Meteor Strike:4
+Crush:4
+Defend:0
+Strike:1
+Strike:5
+Biased Cognition:5
+Blizzard:0
+Hyperbeam:4
+Strike:1
+Biased Cognition:6
+Meteor Strike:5
+Recycle:0
+Tempest:3
+Hyperbeam:3
+All For One:2
+Defend:3
+Defend:0
+Biased Cognition:6
+Hyperbeam:1
+Strike:5
+Bash:6
+Bash:2
+Bash:6
+Thunderclap:0
+All For One:3
+Biased Cognition:4
+Strike:6
+Strike:6
+Meteor Strike:5
+Hyperbeam:2
+Tempest:2
+Blizzard:3
+All For One:1
+Crush:1
+Biased Cognition:1
+Blizzard:2
+Tempest:0
+Crush:4
+All For One:5
+Blizzard:5
+Strike:6
+Thunderclap:0
+Biased Cognition:0
+Genetic Algorithm:0
+Genetic Algorithm:5
+Tempest:4
+Tempest:4
+Blizzard:1
+Strike:1
+Thunderclap:2
+Crush:6
+Thunderclap:2
+Genetic Algorithm:5
+Strike:3
+Meteor Strike:3
+Genetic Algorithm:4
+Genetic Algorithm:2
+Tempest:6
+Biased Cognition:2
+Strike:4
+Genetic Algorithm:2
+Genetic Algorithm:0
+Biased Cognition:6
+Hyperbeam:2
+Hyperbeam:5
+Meteor Strike:3
+Bash:5
+Hyperbeam:4
+Biased Cognition:2
+Tempest:3
+Meteor Strike:0
+Bash:6
+Meteor Strike:0
+Genetic Algorithm:2
+Hyperbeam:4
+Tempest:0
+All For One:2
+Bash:4
+Genetic Algorithm:2
+Tempest:4
+All For One:3
+Defend:4
+Blizzard:5
+Defend:3
+Recycle:3
+All For One:2
+Bash:2
+Meteor Strike:6
+Meteor Strike:3
+Meteor Strike:2
+Genetic Algorithm:2
+Defend:4
+Meteor Strike:6
+Recycle:3
+Hyperbeam:6
+Biased Cognition:0
+All For One:1
+Defend:1
+Defend:3
+Thunderclap:2
+Genetic Algorithm:2
+Genetic Algorithm:3
+Recycle:0
+Bash:4
+Strike:5
+Defend:3
+Bash:3
+Bash:0
+Recycle:2
+Defend:6
+Defend:0
+Crush:4
+Hyperbeam:6
+Strike:2
+Recycle:5
+Blizzard:1
+Thunderclap:4
+Defend:4
+Meteor Strike:1
+Thunderclap:5
+Meteor Strike:4
+Biased Cognition:2
+All For One:0
+Hyperbeam:0
+Recycle:0
+Strike:2
+Recycle:0

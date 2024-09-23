@@ -1,0 +1,14 @@
+Strike:1
+Genetic Algorithm:1
+Crush:3
+Biased Cognition:1
+All For One:2
+Genetic Algorithm:1
+Strike:1
+Genetic Algorithm:1
+InvalidCard:-1
+:3
+AnotherInvalidCard:
+Space Card:3
+InvalidCardWithSpaces:
+AnotherOne:8

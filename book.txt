@@ -23,3 +23,23 @@ Untracked files:
 	book.txt
 	properties.txt
 
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   book.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+	modified:   output.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.idea/
+	GitFall2024-Rigo.iml
+	properties.txt
+

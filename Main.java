@@ -1,8 +1,9 @@
+import java.util.LinkedList;
 public class Main{
 
-LinkedList<String> studentNames;
+	LinkedList<String> studentNames;
 
-public Main(){
+	public Main(){
 		studentNames = new LinkedList<>();
 		studentNames.add("Peter");
 		studentNames.add("Sierra");
